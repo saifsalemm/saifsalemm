@@ -25,7 +25,7 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 
 ## JavaScript ❤️
 
-🌍  I'm based in Cairo <br>
-🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a>
-🧠  I'm learning Node.js, express, docker
-🤝  I'm open to collaborating on React.js and React Native projects
+🌍  I'm based in Cairo<br>
+🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a><br>
+🧠  I'm learning Node.js, express, docker<br>
+🤝  I'm open to collaborating on React.js and React Native projects<br>
