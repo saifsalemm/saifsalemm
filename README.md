@@ -6,6 +6,7 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 
 ---
 
+
 ### 🧰 Languages and Tools
 
 
@@ -21,7 +22,6 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-#
 
 ## JavaScript ❤️<br>
 🌍  I'm based in Cairo<br>
