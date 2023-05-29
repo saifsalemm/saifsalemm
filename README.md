@@ -6,20 +6,11 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 
 ---
 
-## JavaScript ❤️
-
-🌍  I'm based in Cairo
-🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a>
-🧠  I'm learning Node.js, express, docker
-🤝  I'm open to collaborating on React.js and React Native projects
-
-#
-
 ### 🧰 Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,3 +21,11 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
+#
+
+## JavaScript ❤️
+
+🌍  I'm based in Cairo <br>
+🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a>
+🧠  I'm learning Node.js, express, docker
+🤝  I'm open to collaborating on React.js and React Native projects
