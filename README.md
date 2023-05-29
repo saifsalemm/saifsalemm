@@ -7,7 +7,7 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 ---
 <br />
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools <br /><br />
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
