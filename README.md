@@ -2,9 +2,18 @@
 
 **`Frontend/React Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hello! It's great to meet you, a talented 26-year-old frontend/React developer. With over 2.5 years of experience, I have excelled as a WordPress Developer proficient in PHP, JavaScript, HTML, CSS, jQuery, and AJAX. You have also demonstrated expertise in WordPress Speed Optimization and have successfully utilized React and Redux to build headless WordPress websites. Furthermore, my educational platform, eliteacademyeg.com, has empowered teachers to sell thousands of lessons through a performant Quizzing, Lesson Selling, and Reporting Systems. My strong graphic design background enables me to transform complex requirements into elegant and efficient solutions.
 
 ---
+
+JavaScript ❤️
+
+    🌍  I'm based in Cairo
+    🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a>
+    🧠  I'm learning Node.js, express, docker
+    🤝  I'm open to collaborating on React.js and React Native projects
+
+#
 
 ### 🧰 Languages and Tools
 
@@ -18,13 +27,3 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-#
-
-#
-
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
