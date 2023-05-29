@@ -7,7 +7,7 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 ---
 <br />
 
-### 🧰 Languages and Tools <br /><br />
+### 🧰 Languages and Tools <br />
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
@@ -23,7 +23,7 @@ Hello! It's great to meet you, a talented 26-year-old frontend/React developer. 
 <br /><br /><br />
 
 
-### ❤️ JavaScript<br /><br />
+### ❤️ JavaScript<br />
 🌍  I'm based in Cairo<br>
 🚀  I'm currently working on my educational platform <a href="https://eliteacademyeg.com">Elite Academy</a><br>
 🧠  I'm learning Node.js, express, docker<br>
