@@ -1,6 +1,6 @@
 # 🏄‍♂️ Saif Salem
 
-**`Frontend/React Developer`**
+**`Frontend/React - Wordpress Developer`**
 
 Hello! It's great to meet you, a talented 26-year-old frontend/React developer. With over 2.5 years of experience, I have excelled as a WordPress Developer proficient in PHP, JavaScript, HTML, CSS, jQuery, and AJAX. You have also demonstrated expertise in WordPress Speed Optimization and have successfully utilized React and Redux to build headless WordPress websites. Furthermore, my educational platform, eliteacademyeg.com, has empowered teachers to sell thousands of lessons through a performant Quizzing, Lesson Selling, and Reporting Systems. My strong graphic design background enables me to transform complex requirements into elegant and efficient solutions.
 
